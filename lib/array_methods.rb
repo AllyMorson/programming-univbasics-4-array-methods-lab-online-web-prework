@@ -1,8 +1,9 @@
-def using_include(array, element)
-
+def famous_cats = ["bub", "pig", "pelu"]
+famous_cats.include ? ("plank")
 end
 
-def using_sort(array)
+def famous_cats = ["bub", "pig", "pelu"]
+  famous_cats.sort 
 
 end
 
