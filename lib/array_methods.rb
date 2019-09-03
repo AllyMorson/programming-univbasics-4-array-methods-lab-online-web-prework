@@ -7,18 +7,20 @@ def famous_cats = ["bub", "pig", "pelu"]
 
 end
 
-def using_reverse(array)
+def famous_cats = ["bub", "pig", "pelu"]
+  famous_cats.reverse
 
 end
 
-def using_first(array)
+def famous_cats = ["bub", "pig", "pelu"]
+famous_cats.first 
+end
+
+def famous_cats = ["bub", "pig", "pelu"]
+  famous_cats.last
 
 end
 
-def using_last(array)
-
-end
-
-def using_size(array)
-
+def famous_cats = ["bub", "pig", "pelu"]
+famous_cats.size
 end
